@@ -1,6 +1,7 @@
 Katze
 Hund <3
 Hamster
+Maus
 Faultier
 Meerschweinchen
 Kampffisch
