@@ -10,3 +10,4 @@ Robbe
 Löwe
 Tiger
 Fische
+Papagei
