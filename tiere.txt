@@ -1,3 +1,4 @@
+Giraffe
 Katze
 Hund <3
 Hamster
