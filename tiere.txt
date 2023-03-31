@@ -1,0 +1,10 @@
+Katze
+Hund
+Hamster
+Faultier
+Meerschweinchen
+Kampffisch
+Orca
+Robbe
+Löwe
+Tiger
