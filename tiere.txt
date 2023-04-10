@@ -13,3 +13,4 @@ Löwe
 Tiger
 Fische
 Papagei
+Ameise
